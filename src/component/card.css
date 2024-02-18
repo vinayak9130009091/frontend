@@ -10,6 +10,7 @@
 }
 .cardView {
   margin-top: -20%;
+  padding: 20px;
 }
 
 .card_db h2 {
@@ -28,10 +29,11 @@
 /* select option */
 
 .box select {
+  position: relative;
   background-color: #8b9399; /*#0563af; */
   color: white;
   padding: 2px;
-  width: 30%;
+  width: 25%;
   border-radius: 8px;
   border: none;
   font-size: 12px;
@@ -40,7 +42,7 @@
   -webkit-appearance: button;
   appearance: button;
   outline: none;
-  margin-left: 80%;
+  margin-left: 60%;
   margin-top: -10%;
 }
 
